@@ -1,0 +1,9 @@
+Task:
+
+1.) Find Name,Department,Category,Data.Water,Data.Cholesterol 
+
+2.) Find Product,brand,Date,Employee ID,Name
+
+3.) Trasfer both the output (csv) files to remote server/machine and send file trasfer alert.
+
+
