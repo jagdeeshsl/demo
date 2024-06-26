@@ -1,0 +1,33 @@
+VENDOR_NAME,FREQ_IN_MHZ,ECACHE_IN_MB,IMPL,REVISION,MASK,INSTANCE_COUNT,SNAPSHOT_GUID,TARGET_GUID,NUM_CORES,IS_HYPERTHREAD_ENABLED,SIBLINGS,TARGET_NAME,TARGET_TYPE,LAST_COLLECTION_TIMESTAMP
+IBM Corporation,4356,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,15,vZNPqtc631jgU6W1MgoWAw==,AbJMOAk23st8b+DeX4lEOQ==,-1,1,8,or1pam120.corp.vinsys.com,host,2023-03-13T09:41:47.000
+IBM Corporation,4356,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,15,vZPumjsTWpLgU6W1MgoTGw==,CVetZUtyXZHLaRvUgekr6w==,-1,1,8,or1pam121.corp.vinsys.com,host,2023-03-13T09:43:16.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vaegF/fo7mvgU6W1MgoDpw==,DRuevihC4Ply4LmzS+2ZnQ==,-1,1,8,sj1pam019.corp.vinsys.com,host,2023-03-13T10:02:22.000
+IBM Corporation,4190,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vZKvJGuq5EbgU6W1Mgp9MA==,Evqsus1SBUljhlFmv+oFkQ==,-1,1,8,or1pam118.corp.vinsys.com,host,2023-03-13T09:41:05.000
+IBM Corporation,3600,0,PowerPC_POWER10,UNKNOWN,UNKNOWN,3,vUD4ReDMkzXgU6W1MgrOlw==,IpINlw+VsREepsTpOQPpxg==,-1,1,8,or1sam172.corp.vinsys.com,host,2023-03-13T11:37:54.000
+IBM Corporation,4356,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vUKOfL29al3gU6W1Mgrigw==,J3CufCYa2N8O9+F5WyO0ag==,-1,1,8,or1sam175.corp.vinsys.com,host,2023-03-13T10:20:16.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vUPlUKTiPwrgU6W1MgoF3w==,KxmouJcIt6c1ZDZF4sDkxg==,-1,1,8,sj1sam018.corp.vinsys.com,host,2023-03-13T11:38:27.000
+IBM Corporation,4356,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vS0OaJlGwK7gU6W1MgoZ6A==,LJJ/xcAM1J9j0dIt/wi7iA==,-1,1,8,or1sam170.corp.vinsys.com,host,2023-03-13T12:06:14.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vLMbJEzXdaLgU6W1Mgr+uA==,LPpsvk+1mwRqE5OeAoBQJQ==,-1,1,8,or1sam169.corp.vinsys.com,host,2023-03-13T12:04:44.000
+IBM Corporation,3600,0,PowerPC_POWER10,UNKNOWN,UNKNOWN,3,vUDHTnnKcfngU6W1Mgr0Yg==,RQL817AfZwdllk+6YoLjaQ==,-1,1,8,or1sam171.corp.vinsys.com,host,2023-03-13T11:39:20.000
+IBM Corporation,4190,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vZLWQa7fAxHgU6W1MgrXIA==,SPgtI0Re0d/42r6iIkS1rw==,-1,1,8,or1pam117.corp.vinsys.com,host,2023-03-13T09:42:28.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vadP+59Is7ngU6W1MgrXew==,SwZf7TAhF4oWSGkAeUSHQw==,-1,1,8,sj1pam015.corp.vinsys.com,host,2023-03-13T09:42:08.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vaclFl/Il57gU6W1Mgr9bw==,TFD7JV2o5PDY8OcIrsDmIw==,-1,1,8,sj1pam018.corp.vinsys.com,host,2023-03-13T10:01:09.000
+IBM Corporation,4356,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vUKQWlAta6zgU6W1Mgqeiw==,UBq7FPsGpp8URaQSLfxodg==,-1,1,8,or1sam177.corp.vinsys.com,host,2023-03-13T08:36:56.000
+GenuineIntel,2500,30,Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz,63,6,2,vZiXPCFtGArgU6W1MgrpOw==,WRSKUW/d1lNetXheq/6sGA==,12,1,24,du1dra001.corp.vinsys.com,host,2023-03-13T20:51:12.000
+GenuineIntel,2500,30,Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz,63,6,2,vZhc/CZO8V/gU6W1MgopRg==,aOYmvmobRb6kxMx9xYWeCA==,12,1,24,sj1dra724.corp.vinsys.com,host,2023-03-14T01:05:34.000
+IBM Corporation,4190,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vZIUBb9EeSHgU6W1MgpROg==,bwpfEp6nZ98J1Yij1ZICpQ==,-1,1,8,or1pam115.corp.vinsys.com,host,2023-03-13T09:41:17.000
+IBM Corporation,3600,0,PowerPC_POWER10,UNKNOWN,UNKNOWN,3,vUD4ReBDkzXgU6W1MgrOlw==,kPOS6Dzp7AX7Z2e+1f00AQ==,-1,1,8,or1sam173.corp.vinsys.com,host,2023-03-13T11:39:43.000
+GenuineIntel,2100,27.5,Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz,85,6,2,vBikckeUwt3gU6W1MgpTEQ==,ktlEHE5Ki+yAXagyRk8pZA==,20,1,40,oemprod,host,2023-03-13T20:51:00.000
+IBM Corporation,4190,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vZNjqutW7d7gU6W1MgqY4w==,kv9sfD4NOiyr3NqeNaJ0Dg==,-1,1,8,or1pam119.corp.vinsys.com,host,2023-03-13T09:41:08.000
+IBM Corporation,4356,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,15,vZI3TIJikfHgU6W1Mgoo/g==,k4rF+xt4fNZ4imoD6lGdsA==,-1,1,8,or1pam116.corp.vinsys.com,host,2023-03-13T09:40:31.000
+IBM Corporation,4356,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vLLrVRBiVh3gU6W1MgoRYQ==,rUe15mJdaohSy6lL8LY1kw==,-1,1,8,or1sam168.corp.vinsys.com,host,2023-03-13T12:04:28.000
+GenuineIntel,2600,19.25,Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz,85,6,1,vZIUBcTueSHgU6W1MgpROg==,rZdFQBz6ouw3eGFCs4VccQ==,12,1,24,no1dra043.corp.vinsys.com,host,2023-03-13T16:22:04.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vVUbJai338vgU6W1Mgr6cA==,vR7nKyYq487gU6W1MgrILw==,-1,1,8,or1sam176.corp.vinsys.com,host,2023-03-13T10:18:26.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vUL1N8+MrUzgU6W1Mgo1gQ==,0nYwMKR3rHCvCoEvDeTNzA==,-1,1,8,or1sam178.corp.vinsys.com,host,2023-03-13T08:35:48.000
+GenuineIntel,2600,19.25,Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz,85,6,1,vZIh3RGghUngU6W1Mgpl0w==,0rEeX9blY+6D59Prqr3mWA==,12,1,24,no1dra042.corp.vinsys.com,host,2023-03-13T16:22:28.000
+IBM Corporation,3600,0,PowerPC_POWER10,UNKNOWN,UNKNOWN,3,vUD4ReKBkzXgU6W1MgrOlw==,2/7qBj1XkrpU7ejj3ZgEUQ==,-1,1,8,or1sam174.corp.vinsys.com,host,2023-03-13T11:40:49.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,3VP4zOFfCCrgU6W1Mgr5DA==,3U83yFbwFP7gU6W1MgoqDQ==,-1,1,8,sj1pam017.corp.vinsys.com,host,2023-03-13T09:39:36.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,3VPAyPxMzrPgU6W1MgoUyw==,3U834/ChFPrgU6W1MgrdtQ==,-1,1,8,sj1pam016.corp.vinsys.com,host,2023-03-13T09:42:38.000
+GenuineIntel,2600,24.75,Intel(R) Xeon(R) Gold 6240 CPU @ 2.60GHz,85,6,1,vatMHLXPEe/gU6W1MgofVQ==,4c2NKmlXKKWjcmW7QyktTg==,18,1,36,sj1dra375.corp.vinsys.com,host,2023-03-13T10:17:24.000
+IBM Corporation,4190,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vZPumjrTWpLgU6W1MgoTGw==,6DKFhChq24daWmEHyRS/Iw==,-1,1,8,or1pam122.corp.vinsys.com,host,2023-03-13T10:08:26.000
+IBM Corporation,4024,0,PowerPC_POWER8,UNKNOWN,UNKNOWN,10,vUPkuUFHFd/gU6W1Mgr6Cw==,8GnMuczcskI7ZwWb+GGPvg==,-1,1,8,sj1sam017.corp.vinsys.com,host,2023-03-13T11:39:47.000

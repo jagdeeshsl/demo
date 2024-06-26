@@ -1,0 +1,69 @@
+SQL Server Task:
+1.) create database OLE
+2.) Import all the 4 files with exact same table name in OLE database
+
+
+______________________Task - 1_____________________
+
+SELECT 
+     BANNER + '_' + host + '_' + target_name + '_' + instance_name AS import_id,
+    'oem' AS import_data_source_id,
+    banner AS generic_key,
+    'oracle' AS publisher,
+    'database' AS product,
+    'TRUE' AS product_version,
+    host_name AS import_device_id,
+    instance_name AS instance_name,
+    1 AS quantity
+FROM dbo.MGMT$DB_DBNINSTANCEINFO
+WHERE target_type like 'MySQL_database'          
+
+
+
+
+
+
+
+
+
+______________________Task - 2_____________________
+
+SELECT
+                    fea.name + '_' + fea.version AS import_id, 
+                    'oem' AS import_data_source_id,
+                    fea.name AS generic_key,
+                    'oracle' AS publisher,
+                    'feature' AS product,
+                    fea.currently_used AS product_version,
+                    ser.host_name AS import_device_id,
+                    ser.instance_name AS instance_name,
+                    1 AS quantity                 
+FROM dbo.CM$MGMT_FEATURE_USAGE_ECM fea
+LEFT JOIN dbo.MGMT$DB_DBNINSTANCEINFO ser ON ser.target_name = fea.cm_target_name
+
+
+
+
+
+
+
+
+
+
+______________________Task - 3_____________________ 
+
+select 
+    dev.hostname,
+    dev.vendor_name,
+    dev.system_serial_number,
+    cm_target_name,
+    dev.physical_cpu_count,
+    total_cpu_cores,
+    impl 
+FROM dbo.CM$MGMT_ECM_HW dev
+LEFT JOIN dbo.MGMT$HW_CPU_DETAILS cpu ON cpu.target_guid = dev.CM_TARGET_GUID
+
+
+_______________________________Task -3_______________
+
+Explanation of update SQL snap.
